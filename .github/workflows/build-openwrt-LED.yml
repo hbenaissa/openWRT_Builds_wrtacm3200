@@ -68,7 +68,7 @@ env:
   UPLOAD_FILEIO: true
 #############################
 
-  TZ: America/New_York
+  TZ: Europe/Paris
 
 jobs:
   build:
