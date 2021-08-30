@@ -28,7 +28,7 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-a
 # git clone https://github.com/shadowsocks/openwrt-shadowsocks.git package/shadowsocks
 # git clone https://github.com/shadowsocks/luci-app-shadowsocks.git package/luci-app-shadowsocks
 # git clone https://github.com/zxlhhyccc/luci-app-serverchan openwrt/package/luci-app-serverchan
-# git clone https://github.com/Kinodi/luci-theme-atmaterial openwrt/package/luci-theme-atmaterial
+git clone https://github.com/Kinodi/luci-theme-atmaterial package/luci-theme-atmaterial
 # git clone https://github.com/Lienol/openwrt-package openwrt/package/openwrt-package
 # git clone -b release-1.6.3 https://github.com/brvphoenix/luci-app-wrtbwmon.git package/luci-app-wrtbwmon
 # git clone -b LUCI-LUA-UCITRACK https://github.com/CCnut/feed-netkeeper openwrt/package/netkeeper
@@ -36,7 +36,7 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-a
 ###  KoolProxyR to ad plugin
 # git clone https://github.com/jefferymvp/luci-app-koolproxyR package/luci-app-koolproxyR
 ###  adguardhome
-# git  clone https://github.com/rufengsuixing/luci-app-adguardhome package / luci-app-adguardhome
+git  clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 ###  Clash plugin
 # git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
 ###  SmartDNS plugin
@@ -45,3 +45,5 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-a
 # git clone https://github.com/esirplayground/luci-app-poweroff package/luci-app-poweroff
 ### Automatic shutdown plug
 # git clone https://github.com/sirpdboy/luci-app-autopoweroff package/luci-app-autopoweroff
+### luci-theme-argon
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
